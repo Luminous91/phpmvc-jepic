@@ -30,4 +30,7 @@ Om du vill ändra i stilmallen går du till site/themes/mytheme/style.css.
 
 ### Blogg
 
+När du öppnar ramverket i browsern ska du lägga till /content/create i adressen för att komma till sidan 
+där du kan skriva ett blogginlägg. Type måste vara post och Filter ska vara plain.
+
 ### Sida
