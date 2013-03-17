@@ -4,15 +4,15 @@
 <h2>Download</h2>
 <p>You can download Jepic from github.</p>
 <blockquote>
-<<<<<<< HEAD
+
 <code>git clone git://github.com/Luminous91/phpmvc-jepic.git</code>
 </blockquote>
 <p>You can review its source directly on github: <a href='https://github.com/Luminous91/phpmvc-jepic'>https://github.com/Luminous91/phpmvc-jepic</a></p>
-=======
+
 <code>git clone git://github.com/Luminous91/jepic.git</code>
 </blockquote>
 <p>You can review its source directly on github: <a href='https://github.com/Luminous91/jepic'>https://github.com/Luminous91/jepic</a></p>
->>>>>>> 9a15f197613c13ab57e7914087fd08fe2d22de26
+
 
 <h2>Installation</h2>
 <p>First you have to make the data-directory writable. This is the place where Jepic needs

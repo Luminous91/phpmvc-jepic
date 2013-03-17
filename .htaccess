@@ -1,9 +1,6 @@
 RewriteEngine on
-<<<<<<< HEAD
+
   RewriteBase /~likf12/phpmvc/kmom08/jepic
-=======
-  RewriteBase /~likf12/phpmvc/kmom07/jepic
->>>>>>> 9a15f197613c13ab57e7914087fd08fe2d22de26
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule (.*) index.php/$1 [NC,L]

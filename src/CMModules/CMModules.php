@@ -6,15 +6,14 @@
  */
 class CMModules extends CObject {
 
-<<<<<<< HEAD
+
 /**
    * Properties
    */
   private $jepicCoreModules = array('CJepic', 'CDatabase', 'CRequest', 'CViewContainer', 'CSession', 'CObject');
   private $jepicCMFModules = array('CForm', 'CCPage', 'CCBlog', 'CMUser', 'CCUser', 'CMContent', 'CCContent', 'CFormUserLogin', 'CFormUserProfile', 'CFormUserCreate', 'CFormContent', 'CHTMLPurifier');	
 	
-=======
->>>>>>> 9a15f197613c13ab57e7914087fd08fe2d22de26
+
   /**
    * Constructor
    */
