@@ -19,3 +19,9 @@ phpmvc-jepic
 ### Navigeringsmeny
 
 ### Ändra färg och typsnitt mm
+
+## Skapa innehåll i Jepic
+
+### Blogg
+
+### Sida
