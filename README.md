@@ -17,3 +17,5 @@ phpmvc-jepic
 ### Footer
 
 ### Navigeringsmeny
+
+### Ändra färg och typsnitt mm
