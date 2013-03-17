@@ -22,6 +22,7 @@ Om du vill ändra texten i footern gör du precis som när du ändrade titeln. F
 ### Navigeringsmeny
 
 ### Ändra färg och typsnitt mm
+Om du vill ändra i stilmallen går du till site/themes/mytheme/style.css. 
 
 ## Skapa innehåll i Jepic
 
