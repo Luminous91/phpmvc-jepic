@@ -20,6 +20,7 @@ Om du vill ändra texten i footern gör du precis som när du ändrade titeln. F
 'footer' => '<p>Jepic &copy; by Lisa Korsar</p>'. Ändra till vad du vill att det ska stå.
 
 ### Navigeringsmeny
+Vill du ändra i navigeringsmenyn är även det i site/config.php, men leta upp raden där det står $je->config['menus'] = array(.
 
 ### Ändra färg och typsnitt mm
 Om du vill ändra i stilmallen går du till site/themes/mytheme/style.css. 
