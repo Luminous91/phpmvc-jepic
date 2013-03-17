@@ -14,7 +14,10 @@
     <div id='header'>
       <div id='login-menu'><?=login_menu()?></div>
       <div id='banner'>
+<<<<<<< HEAD
       <a href='<?=base_url()?>'><img id='site-logo' src='<?=theme_url($logo)?>' alt='logo' width='<?=$logo_width?>' height='<?=$logo_height?>' /></a>
+=======
+>>>>>>> 9a15f197613c13ab57e7914087fd08fe2d22de26
         <span id='site-title'><a href='<?=base_url()?>'><?=$header?></a></span>
       </div>
       <?php if(region_has_content('navbar')): ?>
