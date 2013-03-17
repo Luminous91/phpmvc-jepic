@@ -11,6 +11,7 @@ phpmvc-jepic
 ## Ändra utseende på Jepic
 
 ### Logo
+För att ändra din logo laddar du upp den i site/themes/mytheme/. Den ska vara 80x80 pixlar.
 
 ### Titel
 Om du vill ändra titlen ska du gå till site/config.php och gå längst ner. Där finns det en rad där det står 'header' => 'Jepic'. Ändra Jepic till det namnet du vill ha.
