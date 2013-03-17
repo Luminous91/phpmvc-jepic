@@ -34,3 +34,5 @@ När du öppnar ramverket i browsern ska du lägga till /content/create i adress
 där du kan skriva ett blogginlägg. Type måste vara post och Filter ska vara plain om du bara skriver vanlig text.
 
 ### Sida
+
+Gör precis som du gjorde när du skapade ett blogginlägg, men Type måste vara page istället.
