@@ -1,0 +1,10 @@
+/** 
+* Description: Sample theme for site which extends the Jepic grid-theme.
+*/
+@import url(../../../themes/grid/style.css);
+
+html{}
+body{}
+#outer-wrap-header{}
+#outer-wrap-footer{}
+a{}
