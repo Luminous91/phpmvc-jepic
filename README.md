@@ -16,6 +16,7 @@ phpmvc-jepic
 Om du vill ändra titlen ska du gå till site/config.php och gå längst ner. Där finns det en rad där det står 'header' => 'Jepic'. Ändra Jepic till det namnet du vill ha.
 
 ### Footer
+Om du vill ändra texten i footern gör dy precis som när du ändrade titeln. Fast leta istället upp raden där det står 'footer' => '<p>Jepic &copy; by Lisa Korsar</p>' och ändra till vad du vill att det ska stå.
 
 ### Navigeringsmeny
 
